@@ -681,7 +681,8 @@ input[type="checkbox"]:checked::after, .checkbox input[type="checkbox"]:checked:
 #extension-list span {
 	font-weight: 600;
 }
-
+.table-responsive{
+	min-height: 160px !important;
 }
 #marketplace-extension-info #banner img {
 	margin-left: auto;
