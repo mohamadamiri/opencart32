@@ -119,20 +119,6 @@ div.required .control-label:before {
 #top-links .dropdown-menu a:hover {
 
 }
-.c-navi-categories__overlay {
-	position: fixed;
-	right: 0;
-	height: 100%;
-	width: 100%;
-	top: 0;
-	bottom: 0;
-	content: "";
-	background: rgba(74,74,74,.43);
-	opacity: 0;
-	z-index: 233;
-	transition: opacity .2s cubic-bezier(.215,.61,.355,1) .1s;
-	pointer-events: none;
-}
 #top .btn-link strong {
 	font-size: 14px;
     line-height: 14px;
